@@ -48,7 +48,7 @@ export default function Register() {
                     <p>Faça seu cadastro, entre na plataforma e ajude pessoas a encontrarem as casos da sua ONG.</p>
                     <Link className="back-link" to="/">
                         <FiArrowLeft size={16} color="#e02041"/>
-                        Não tenho cadastro
+                        Voltar a página de Login
                     </Link>
                 </section>
 
