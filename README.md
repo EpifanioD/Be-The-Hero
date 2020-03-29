@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="BeTheHero" src="https://user-images.githubusercontent.com/47324432/77862830-6d6c6280-71f4-11ea-9df3-f274b10152c7.png" width="600px" />
+	<img alt="BeTheHero" src="https://user-images.githubusercontent.com/47324432/77862830-6d6c6280-71f4-11ea-9df3-f274b10152c7.png" width="950px" />
 </h1>
 
 <h3 align="center">
