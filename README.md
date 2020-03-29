@@ -16,7 +16,7 @@
 
 ## Sobre o "Be The Hero"
 
-Uma aplicação para que ONG's possam cadastrar casos onde os usuários irão ajudar comforme a sua disponibilidade.
+Uma aplicação para que ONG's possam cadastrar casos onde os usuários irão ajudar conforme a sua disponibilidade.
 
 ## Packages Back-end
    - axios,
