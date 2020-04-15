@@ -8,10 +8,6 @@
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/badge/languages-1-red">
-
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/RocktSeat-Omnistack11-red">
-  </a>
 </p>
 
 ## Sobre o "Be The Hero"
